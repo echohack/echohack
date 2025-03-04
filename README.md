@@ -13,6 +13,7 @@ Current Favorite Stack: TypeScript, Vue, Nuxt, GraphQL, Rust, Postgres
 
 ###### Contact
 📫 david (at) echohack (dot) app
+
 🌎 @echohack
 
 #### 🎮 Hobby
