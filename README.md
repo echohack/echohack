@@ -16,6 +16,6 @@ Current Favorite Stack: TypeScript, Vue, Nuxt, GraphQL, Rust, Postgres
 🌎 @echohack
 
 #### 🎮 Hobby
-- I livestream over on [Twitch](https://twitch.tv/echohack) <a href="https://www.youtube.com/channel/UC3OzqZr0McvfIFV2z5AqmsA"><img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC3OzqZr0McvfIFV2z5AqmsA&key=AIzaSyCXP8IQPCpHpECwEqMpt7fHeilalnhFmyA"/></a>
+- I livestream over on [Twitch](https://twitch.tv/echohack) and produce videos on [YouTube](https://youtube.com/echohack)
 
 - I'm reletively good at Dance Dance Revolution! It's a great way to stay in shape.
