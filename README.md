@@ -1,6 +1,6 @@
 ## I'm David Echo @echohack
 
-✨✨ Available for Hire
+✨✨ Solutions Engineer [@Railway](https://railway.app)
 
 I'm passionate about building incredible software and delivering it safely and quickly to customers.
 
