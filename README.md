@@ -8,6 +8,7 @@ I'm passionate about building incredible software and delivering it safely and q
 - Alumni: GitHub, Pachyderm, Chef Software, CenturyLink Cloud, Vertafore
 - Current Favorite Stack: TypeScript, Vue, Nuxt, GraphQL, Rust, Postgres
 - Hot Tech I Love: Railway, Elixir, SpacetimeDB
+- Customer Engineering Tech - Hex (Google BigQuery), Attio
 
 I've spent my career working on problems on about how we can build better infrastructure for the software industry.
 
