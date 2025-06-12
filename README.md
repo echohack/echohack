@@ -17,10 +17,6 @@ I've spent my career working on problems on about how we can build better infras
 
 🌎 @echohack
 
-#### Portfolio
-
-- [nestarcade.com](https://nestarcade.com/) - A hidden Japanese arcade in Seattle, built the ENTIRE site, payments, design, servers, dns, etc.
-
 #### 🎮 Hobby
 - I livestream over on [Twitch](https://twitch.tv/echohack) and produce videos on [YouTube](https://youtube.com/echohack)
 
